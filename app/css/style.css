@@ -1,0 +1,109 @@
+.head1{
+    background-color: rgb(55,55,55);
+}
+.h6{
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: small;
+}
+.head2 a{
+    color: #FFFFFF;
+}
+.head3 li{
+    margin-right: 50%;
+}
+.head4{
+    margin-bottom: 500px;
+    margin-left: 200px;
+}
+.nav-link{
+    color: black;
+    font-weight: 600;
+}
+.img1{
+    background-image: url('../images/couple-listening-to-music-headphones-mobile-featured.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    /* margin-top: 200px; */
+}
+.text{
+    padding-top: 100px;
+}
+.text1{
+    text-align: center;
+    color: #FFFFFF;
+}
+.text2{
+    text-align: center;
+    color: #FFFFFF;
+}
+.text3{
+    text-align: center;
+}
+.text4{
+    text-align: center;
+}
+.learn{
+    text-align: center;
+    margin-left: 600px;
+    color: #FFFFFF;
+}
+.learn:hover{
+    background-color: black;
+}
+.cont3{
+    margin-top: 200px;
+}
+.cont2{
+    margin-top: 100px;
+}
+.cont1{
+    margin-top: 150px;
+}
+.chart{
+    text-align: center;
+}
+.cont5{
+    margin-top: 100px;
+}
+.icon1{
+    margin-left: 200px;
+    margin-top: 75px;
+}
+.icon3{
+    margin-top: 75px;
+    margin-right: 100px;
+}
+.icon2{
+    padding-left: 185px;
+}
+.easy{
+    margin-left: 80px;
+}
+.Download{
+    margin-left: 80px;
+}
+.Know{
+    margin-right: 30px;
+    margin-left: 38px;
+}
+.size1{
+    margin-top:130px;
+    /* margin-right: -100px; */
+    /* margin-left: 10px; */
+}
+.cont5{
+background-color:#F5F5F5;
+}
+.smartic{
+    text-align: center;
+    padding-top: 60px;
+    /* margin-left: 50px; */
+}
+.foot{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+    border: black;
+}
