@@ -1,3 +1,7 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+
+}
 .head1{
     background-color: rgb(55,55,55);
 }
@@ -21,7 +25,9 @@
     font-weight: 600;
 }
 .img1{
-    background-image: url('../images/couple-listening-to-music-headphones-mobile-featured.jpg');
+    background-image: url('../images/image4.PNG');
+    /* background-color: red; */
+    /* opacity: 0.6; */
     background-repeat: no-repeat;
     background-size: cover;
     height: 700px;
@@ -43,14 +49,15 @@
 }
 .text4{
     text-align: center;
+    line-height: none;
 }
 .learn{
     text-align: center;
     margin-left: 600px;
     color: #FFFFFF;
 }
-.learn:hover{
-    background-color: black;
+.text a:hover{
+     background-color: black;
 }
 .cont3{
     margin-top: 200px;
@@ -102,8 +109,77 @@ background-color:#F5F5F5;
     /* margin-left: 50px; */
 }
 .foot{
-    margin-top: 100px;
+    margin-top: 60px;
     text-align: center;
     margin-bottom: 50px;
     border: black;
 }
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #5CD4D2;
+    border-radius: 50%;
+    display: inline-block;
+  }
+  .ico{
+      color: #FFFFFF;
+  }
+  .element-divider{
+  display: flex;
+  color: #FFFFFF;
+  margin: 0;
+  direction: ltr;
+  }
+  @media screen and (max-width: 992px) {
+    .cont2 {
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .const {
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .tab {
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .smartic1 {
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .test {
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .logo {
+      text-align: center;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .head {
+      text-align: center;
+      margin-right:100px;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .icon {
+      text-align: center;
+      margin-left: 100px;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .learn {
+      text-align: center;
+      margin-left: 170px;
+    }
+  }
+  .font{
+      font-style: italic;
+      font-size: 20px;
+      font-weight: 100%;
+  }
